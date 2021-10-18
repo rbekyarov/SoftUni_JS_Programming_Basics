@@ -1,5 +1,7 @@
-function getRectagleArea(a, b) {
-    return a * b;
+function rectagleArea(){
+    let a = 2;
+    let b = 7;
+    let area = a*b;
+    console.log(area)
 }
-
-console.log(getRectagleArea(2, 7));
+rectagleArea();
