@@ -12,3 +12,4 @@ function solve(input){
     console.log(maxNumber);
 }
 solve([2,100,99]);
+solve([3,56,-5,6]);
